@@ -7,7 +7,7 @@
 - 😄 Either you run the day or the day runs you.
 - 🔭 I’m currently studying in Haldia Institute of technology.
 - 🌱 I’m currently learning more about Developer.
-- 👯 I’m looking to collaborate on Machine Learning Projects.
+- 👯 I’m looking to collaborate on Skill Based Projects.
 - 🤔 I’m looking for effective work platform bsed on my skills.
 - 💬 Ask me about Python, Java or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
