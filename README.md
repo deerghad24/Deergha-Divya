@@ -1,22 +1,22 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hey Ya!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Saloni Swagata</h1>
+         width="45" /> Deergha Divya here </h1>
          
 # 💫 About Me :
-- 😄 Pronouns: She/Her
-- 🔭 I’m currently going to join as an Software Engineer II at Walmart Global Tech.
-- 🌱 I’m currently learning more about Cloud Computing.
+- 😄 Either you run the day or the day runs you.
+- 🔭 I’m currently studying in Haldia Institute of technology.
+- 🌱 I’m currently learning more about Developer.
 - 👯 I’m looking to collaborate on Machine Learning Projects.
-- 🤔 I’m looking for help with Neural Networks.
-- 💬 Ask me about Python, Machine Learning or any tech-related stuff.
+- 🤔 I’m looking for effective work platform bsed on my skills.
+- 💬 Ask me about Python, Java or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- ⚡ Fun fact: Predominantly engaged learning all skills I can go for.
 ---
 ## 🌐 Connect with me 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/saloniswagata/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/swagata_saloni/)
-[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:saloniswagata@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/deergha-divya-23954221b/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/art_splash0324?igshid=YmMyMTA2M2Y=)
+[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:deerghadiva00@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=SaloniSwagata&label=Views&color=blue&style=plastic&style=for-the-badge" alt="SaloniSwagata" />
 
 ---
