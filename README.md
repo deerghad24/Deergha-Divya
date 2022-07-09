@@ -1,7 +1,7 @@
 <h1 align="center"> Hey Ya!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="40"
-         width="40" /> Deergha Divya here </h1>
+         height="45"
+         width="45" /> Deergha Divya here </h1>
          
 # 💫 About Me :
 - 😄 Either you run the day or the day runs you.
