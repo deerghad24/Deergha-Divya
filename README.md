@@ -6,10 +6,9 @@
 # 💫 About Me :
 - 😄 Either you run the day or the day runs you.
 - 🔭 I’m currently studying in Haldia Institute of technology.
-- 🌱 I’m currently learning more about Developer.
-- 👯 I’m looking to collaborate on Skill Based Projects.
-- 🤔 I’m looking for effective work platform bsed on my skills.
-- 💬 Ask me about Python, Java or any tech-related stuff.
+- 🌱 I’m currently learning more about Software Engineering.
+- 👯 I’m looking to collaborate on Challenging Projects.
+- 💬 Ask me about Python, Design or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: Predominantly engaged learning all skills I can go for.
 ---
